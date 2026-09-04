@@ -7,7 +7,7 @@ about:
   head: a6caae6
   archived: false
   latestVersion: v1.4.0
-  collectedAt: 2026-09-04T20:03:50Z
+  collectedAt: 2026-09-04T20:39:44Z
 timeline:
   created: 2020-10-25
   lastCommit: 2026-08-31
@@ -83,7 +83,7 @@ total:
   commit: 919
 ---
 path: /home/runner/.x-repo/github.com/projectdiscovery/cloudlist
-collectedAt: 2026-09-04T20:03:51Z
+collectedAt: 2026-09-04T20:39:45Z
 loc:
   Go:
     code: 15351
