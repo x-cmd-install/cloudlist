@@ -5,18 +5,18 @@ about:
   head: a6caae6
   archived: false
   latestVersion: "v1.4.0"
-  collectedAt: 2026-09-07T05:00:15Z
+  collectedAt: 2026-09-07T19:23:48Z
 timeline:
   created: 2020-10-25
   lastCommit: 2026-08-31
   lastRelease: 2026-02-09
 popularity:
-  star: 1051
+  star: 1052
   watcher: 32
   fork: 132
   release: 17
   contributor: 39
-  pullRequest: 674
+  pullRequest: 675
   issue: 77
 language:
   Go: 561521
@@ -28,60 +28,60 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 3
-    openPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 2
+    commit: 0
   last60d:
     since: 2026-07-09
     release: 0
     mergedPR: 3
-    openPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 3
+    commit: 0
   last90d:
     since: 2026-06-09
     release: 0
     mergedPR: 5
-    openPR: 1
+    openPR: 2
     closedIssue: 1
     openIssue: 0
-    commit: 9
+    commit: 0
   last180d:
     since: 2026-03-11
     release: 0
     mergedPR: 10
-    openPR: 1
+    openPR: 2
     closedIssue: 4
     openIssue: 0
-    commit: 17
+    commit: 0
   last360d:
     since: 2025-09-12
     release: 2
     mergedPR: 33
-    openPR: 2
+    openPR: 3
     closedIssue: 15
     openIssue: 0
-    commit: 69
+    commit: 0
   last720d:
     since: 2024-09-17
     release: 5
     mergedPR: 108
-    openPR: 2
+    openPR: 3
     closedIssue: 31
     openIssue: 0
     commit: 222
 total:
   release: 17
   mergedPR: 439
-  openPR: 2
+  openPR: 3
   closedIssue: 76
   openIssue: 1
   commit: 919
 ---
 path: /home/runner/.x-repo/github.com/projectdiscovery/cloudlist
-collectedAt: 2026-09-07T05:00:18Z
+collectedAt: 2026-09-07T19:23:49Z
 loc:
   Go:
     code: 15351
@@ -237,7 +237,7 @@ checks:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:00:20+00:00
+  collectedAt: 2026-09-07T19:23:50+00:00
   platform:
     darwin/arm64:
       name:  cloudlist_1.4.0_macOS_arm64.zip
