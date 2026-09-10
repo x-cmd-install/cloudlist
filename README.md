@@ -23,7 +23,20 @@ x install cloudlist
 - **Latest**: `v1.4.0` (2026-02-09)
 - **Last commit**: 2026-08-31
 - **Assets in release**: 9
-- **Published**: 2026-02-09T17:39:20Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [cloudlist_1.4.0_checksums.txt](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_checksums.txt) | 782 B | `other` |
+| [cloudlist_1.4.0_linux_386.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_linux_386.zip) | 31.3 MiB | `other` |
+| [cloudlist_1.4.0_linux_amd64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_linux_amd64.zip) | 34.1 MiB | `native/linux/x64` |
+| [cloudlist_1.4.0_linux_arm.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_linux_arm.zip) | 31.8 MiB | `native/linux/arm` |
+| [cloudlist_1.4.0_linux_arm64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_linux_arm64.zip) | 31.4 MiB | `native/linux/arm64` |
+| [cloudlist_1.4.0_macOS_amd64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_macOS_amd64.zip) | 35.1 MiB | `native/darwin/x64` |
+| [cloudlist_1.4.0_macOS_arm64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_macOS_arm64.zip) | 33.5 MiB | `native/darwin/arm64` |
+| [cloudlist_1.4.0_windows_386.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_windows_386.zip) | 32.8 MiB | `native/win/x64` |
+| [cloudlist_1.4.0_windows_amd64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_windows_amd64.zip) | 35.2 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -68,8 +81,8 @@ Lowest-scoring checks:
 Install metadata for cloudlist lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cloudlist` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/cloudlist.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/cloudlist.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:02:43Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:04:31Z._
