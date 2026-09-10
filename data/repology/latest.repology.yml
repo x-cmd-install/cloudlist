@@ -1,0 +1,136 @@
+- repo: nix_stable_24_11
+  srcname: cloudlist
+  visiblename: cloudlist
+  version: 1.1.0
+  origversion: null
+  status: outdated
+  summary: Tool for listing assets from multiple cloud providers
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: cloudlist
+  visiblename: cloudlist
+  version: 1.2.2
+  origversion: null
+  status: outdated
+  summary: Tool for listing assets from multiple cloud providers
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: aur
+  srcname: cloudlist
+  binname: cloudlist
+  visiblename: cloudlist
+  version: 1.4.0
+  origversion: 1.4.0-1
+  status: newest
+  summary: Tool for listing Assets from multiple Cloud Providers
+  maintainers:
+    - vitaliikuzhdin@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: cloudlist-bin
+  binname: cloudlist-bin
+  visiblename: cloudlist-bin
+  version: 1.4.0
+  origversion: 1.4.0-1
+  status: newest
+  summary: Tool for listing Assets from multiple Cloud Providers
+  maintainers:
+    - vitaliikuzhdin@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: cloudlist-git
+  binname: cloudlist-git
+  visiblename: cloudlist-git
+  version: 1.0.8.r0.gebe1127
+  origversion: 1.0.8.r0.gebe1127-1
+  status: rolling
+  summary: Tool for listing Assets from multiple Cloud Providers
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: blackarch
+  srcname: cloudlist
+  binname: cloudlist
+  visiblename: cloudlist
+  version: 919.a6caae6
+  origversion: 919.a6caae6-1
+  status: ignored
+  summary: A tool for listing Assets from multiple Cloud Providers.
+  licenses:
+    - MIT
+- repo: blackarch
+  srcname: cloudlist
+  binname: cloudlist-debug
+  visiblename: cloudlist-debug
+  version: 909.012f643
+  origversion: 909.012f643-1
+  status: ignored
+  summary: Detached debugging symbols for cloudlist
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: cloudlist
+  visiblename: cloudlist
+  version: 1.4.0
+  origversion: null
+  status: newest
+  summary: Tool for listing assets from multiple cloud providers
+- repo: homebrew
+  srcname: cloudlist
+  visiblename: cloudlist
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Tool for listing assets from multiple cloud providers
+- repo: nix_stable_24_05
+  srcname: cloudlist
+  visiblename: cloudlist
+  version: 1.0.8
+  origversion: null
+  status: outdated
+  summary: Tool for listing assets from multiple cloud providers
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: cloudlist
+  visiblename: cloudlist
+  version: 1.2.2
+  origversion: null
+  status: outdated
+  summary: Tool for listing assets from multiple cloud providers
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: cloudlist
+  visiblename: cloudlist
+  version: 1.4.0
+  origversion: null
+  status: newest
+  summary: Tool for listing assets from multiple cloud providers
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: cloudlist
+  visiblename: cloudlist
+  version: 1.4.0
+  origversion: null
+  status: newest
+  summary: Tool for listing assets from multiple cloud providers
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
