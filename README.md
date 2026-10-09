@@ -14,15 +14,15 @@ x install cloudlist
 
 ## Code insight
 
-Total: **15,426** lines of code across **107** files in the top 5 languages.
+Total: **19,415** lines of code across **144** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 15,351 | 1,015 | 2,502 | 97 |
+| Go | 19,340 | 1,142 | 3,000 | 134 |
 | Yaml | 48 | 67 | 9 | 1 |
 | Makefile | 16 | 2 | 2 | 1 |
-| Dockerfile | 11 | 2 | 2 | 1 |
-| Markdown | 0 | 753 | 382 | 7 |
+| Dockerfile | 11 | 0 | 4 | 1 |
+| Markdown | 0 | 755 | 384 | 7 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.4.0` (2026-02-09)
-- **Last commit**: 2026-08-31
+- **Last commit**: 2026-10-09
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,058 · **Forks**: 132 · **Open issues**: 79 · **Contributors**: 40
+- **Stars**: 1,058 · **Forks**: 132 · **Open issues**: 94 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 439 · **Open PRs**: 4 · **Closed issues**: 76 · **Open issues**: 3 · **Commits**: 919
+- **Releases**: 17 · **Merged PRs**: 456 · **Open PRs**: 1 · **Closed issues**: 93 · **Open issues**: 1 · **Commits**: 993
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last60d | 2026-08-09 | 0 | 3 | 2 | 0 | 2 | 3 |
-| 90d | 2026-07-10 | 0 | 3 | 2 | 0 | 2 | 3 |
-| last180d | 2026-04-11 | 0 | 8 | 3 | 3 | 2 | 13 |
-| 360d | 2025-10-13 | 2 | 29 | 4 | 12 | 2 | 62 |
-| last720d | 2024-10-18 | 5 | 101 | 4 | 30 | 2 | 210 |
+| 30d | 2026-09-09 | 0 | 17 | 0 | 17 | 0 | 38 |
+| last60d | 2026-08-10 | 0 | 19 | 0 | 17 | 0 | 41 |
+| 90d | 2026-07-11 | 0 | 20 | 0 | 17 | 0 | 41 |
+| last180d | 2026-04-12 | 0 | 25 | 0 | 20 | 0 | 51 |
+| 360d | 2025-10-14 | 2 | 45 | 1 | 28 | 0 | 100 |
+| last720d | 2024-10-19 | 5 | 118 | 1 | 47 | 0 | 284 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for cloudlist lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:24:15Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:29:39Z._
