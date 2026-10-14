@@ -14,11 +14,11 @@ x install cloudlist
 
 ## Code insight
 
-Total: **19,415** lines of code across **144** files in the top 5 languages.
+Total: **19,422** lines of code across **144** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 19,340 | 1,142 | 3,000 | 134 |
+| Go | 19,347 | 1,147 | 3,002 | 134 |
 | Yaml | 48 | 67 | 9 | 1 |
 | Makefile | 16 | 2 | 2 | 1 |
 | Dockerfile | 11 | 0 | 4 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.4.0` (2026-02-09)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-13
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,057 · **Forks**: 132 · **Open issues**: 95 · **Contributors**: 40
+- **Stars**: 1,058 · **Forks**: 133 · **Open issues**: 97 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 456 · **Open PRs**: 2 · **Closed issues**: 93 · **Open issues**: 2 · **Commits**: 993
+- **Releases**: 17 · **Merged PRs**: 458 · **Open PRs**: 2 · **Closed issues**: 94 · **Open issues**: 3 · **Commits**: 999
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 17 | 2 | 17 | 1 | 37 |
-| last60d | 2026-08-14 | 0 | 18 | 2 | 17 | 1 | 40 |
-| 90d | 2026-07-15 | 0 | 20 | 2 | 17 | 1 | 41 |
-| last180d | 2026-04-16 | 0 | 24 | 2 | 20 | 1 | 49 |
-| 360d | 2025-10-18 | 2 | 44 | 2 | 27 | 1 | 99 |
-| last720d | 2024-10-23 | 5 | 116 | 2 | 47 | 1 | 280 |
+| 30d | 2026-09-14 | 0 | 18 | 2 | 18 | 2 | 41 |
+| last60d | 2026-08-15 | 0 | 20 | 2 | 18 | 2 | 44 |
+| 90d | 2026-07-16 | 0 | 22 | 2 | 18 | 2 | 45 |
+| last180d | 2026-04-17 | 0 | 26 | 2 | 21 | 2 | 53 |
+| 360d | 2025-10-19 | 2 | 46 | 2 | 28 | 2 | 103 |
+| last720d | 2024-10-24 | 5 | 118 | 2 | 48 | 2 | 286 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for cloudlist lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:08:57Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:09:53Z._
