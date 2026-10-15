@@ -14,11 +14,11 @@ x install cloudlist
 
 ## Code insight
 
-Total: **19,422** lines of code across **144** files in the top 5 languages.
+Total: **19,692** lines of code across **147** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 19,347 | 1,147 | 3,002 | 134 |
+| Go | 19,617 | 1,158 | 3,035 | 137 |
 | Yaml | 48 | 67 | 9 | 1 |
 | Makefile | 16 | 2 | 2 | 1 |
 | Dockerfile | 11 | 0 | 4 | 1 |
@@ -26,13 +26,13 @@ Total: **19,422** lines of code across **144** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6 / 10**
+Overall score: **6.3 / 10**
 
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -42,42 +42,42 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.4.0` (2026-02-09)
-- **Last commit**: 2026-10-13
+- **Latest**: `v1.5.0` (2026-10-14)
+- **Last commit**: 2026-10-14
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,058 · **Forks**: 133 · **Open issues**: 97 · **Contributors**: 40
+- **Stars**: 1,057 · **Forks**: 133 · **Open issues**: 101 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 458 · **Open PRs**: 2 · **Closed issues**: 94 · **Open issues**: 3 · **Commits**: 999
+- **Releases**: 18 · **Merged PRs**: 464 · **Open PRs**: 0 · **Closed issues**: 101 · **Open issues**: 0 · **Commits**: 1008
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 18 | 2 | 18 | 2 | 41 |
-| last60d | 2026-08-15 | 0 | 20 | 2 | 18 | 2 | 44 |
-| 90d | 2026-07-16 | 0 | 22 | 2 | 18 | 2 | 45 |
-| last180d | 2026-04-17 | 0 | 26 | 2 | 21 | 2 | 53 |
-| 360d | 2025-10-19 | 2 | 46 | 2 | 28 | 2 | 103 |
-| last720d | 2024-10-24 | 5 | 118 | 2 | 48 | 2 | 286 |
+| 30d | 2026-09-15 | 1 | 24 | 0 | 24 | 0 | 46 |
+| last60d | 2026-08-16 | 1 | 26 | 0 | 24 | 0 | 49 |
+| 90d | 2026-07-17 | 1 | 28 | 0 | 24 | 0 | 50 |
+| last180d | 2026-04-18 | 1 | 32 | 0 | 27 | 0 | 58 |
+| 360d | 2025-10-20 | 3 | 52 | 0 | 34 | 0 | 108 |
+| last720d | 2024-10-25 | 6 | 124 | 0 | 54 | 0 | 295 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [cloudlist_1.4.0_checksums.txt](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_checksums.txt) | 782 B | `other` |
-| [cloudlist_1.4.0_linux_386.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_linux_386.zip) | 31.3 MiB | `other` |
-| [cloudlist_1.4.0_linux_amd64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_linux_amd64.zip) | 34.1 MiB | `native/linux/x64` |
-| [cloudlist_1.4.0_linux_arm.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_linux_arm.zip) | 31.8 MiB | `native/linux/arm` |
-| [cloudlist_1.4.0_linux_arm64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_linux_arm64.zip) | 31.4 MiB | `native/linux/arm64` |
-| [cloudlist_1.4.0_macOS_amd64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_macOS_amd64.zip) | 35.1 MiB | `native/darwin/x64` |
-| [cloudlist_1.4.0_macOS_arm64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_macOS_arm64.zip) | 33.5 MiB | `native/darwin/arm64` |
-| [cloudlist_1.4.0_windows_386.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_windows_386.zip) | 32.8 MiB | `native/win/x64` |
-| [cloudlist_1.4.0_windows_amd64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.4.0/cloudlist_1.4.0_windows_amd64.zip) | 35.2 MiB | `native/win/x64` |
+| [cloudlist_1.5.0_checksums.txt](https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_checksums.txt) | 782 B | `other` |
+| [cloudlist_1.5.0_linux_386.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_linux_386.zip) | 34.9 MiB | `other` |
+| [cloudlist_1.5.0_linux_amd64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_linux_amd64.zip) | 38.0 MiB | `native/linux/x64` |
+| [cloudlist_1.5.0_linux_arm.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_linux_arm.zip) | 35.3 MiB | `native/linux/arm` |
+| [cloudlist_1.5.0_linux_arm64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_linux_arm64.zip) | 34.8 MiB | `native/linux/arm64` |
+| [cloudlist_1.5.0_macOS_amd64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_macOS_amd64.zip) | 39.3 MiB | `native/darwin/x64` |
+| [cloudlist_1.5.0_macOS_arm64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_macOS_arm64.zip) | 37.2 MiB | `native/darwin/arm64` |
+| [cloudlist_1.5.0_windows_386.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_windows_386.zip) | 36.7 MiB | `native/win/x64` |
+| [cloudlist_1.5.0_windows_amd64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_windows_amd64.zip) | 39.3 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for cloudlist lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:09:53Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:52:24Z._
