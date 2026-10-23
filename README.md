@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,057 · **Forks**: 133 · **Open issues**: 102 · **Contributors**: 40
+- **Stars**: 1,058 · **Forks**: 133 · **Open issues**: 102 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 25 | 1 | 24 | 1 | 47 |
-| last60d | 2026-08-23 | 1 | 27 | 1 | 24 | 1 | 50 |
-| 90d | 2026-07-24 | 1 | 29 | 1 | 24 | 1 | 51 |
-| last180d | 2026-04-25 | 1 | 33 | 1 | 27 | 1 | 59 |
-| 360d | 2025-10-27 | 3 | 52 | 1 | 34 | 1 | 109 |
-| last720d | 2024-11-01 | 6 | 123 | 1 | 54 | 1 | 292 |
+| 30d | 2026-09-23 | 1 | 25 | 1 | 24 | 1 | 47 |
+| last60d | 2026-08-24 | 1 | 27 | 1 | 24 | 1 | 50 |
+| 90d | 2026-07-25 | 1 | 29 | 1 | 24 | 1 | 51 |
+| last180d | 2026-04-26 | 1 | 33 | 1 | 27 | 1 | 59 |
+| 360d | 2025-10-28 | 3 | 52 | 1 | 34 | 1 | 109 |
+| last720d | 2024-11-02 | 6 | 123 | 1 | 54 | 1 | 292 |
 
 ## Release assets
 
@@ -79,6 +79,15 @@ Lowest-scoring checks:
 | [cloudlist_1.5.0_windows_386.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_windows_386.zip) | 36.7 MiB | `native/win/x64` |
 | [cloudlist_1.5.0_windows_amd64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_windows_amd64.zip) | 39.3 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/cloudlist). **4** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.5.0` | ✅ latest |
+| Nix unstable | `1.5.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for cloudlist lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cloudlist` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +97,4 @@ Install metadata for cloudlist lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:01:59Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:03:17Z._
