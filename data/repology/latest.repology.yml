@@ -1,25 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: cloudlist
-  visiblename: cloudlist
-  version: 1.2.2
-  origversion: null
-  status: outdated
-  summary: Tool for listing assets from multiple cloud providers
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: cloudlist
-  visiblename: cloudlist
-  version: 1.1.0
-  origversion: null
-  status: outdated
-  summary: Tool for listing assets from multiple cloud providers
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
 - repo: aur
   srcname: cloudlist
   binname: cloudlist
@@ -58,22 +36,22 @@
     - MIT
 - repo: blackarch
   srcname: cloudlist
-  binname: cloudlist-debug
-  visiblename: cloudlist-debug
-  version: 909.012f643
-  origversion: 909.012f643-1
+  binname: cloudlist
+  visiblename: cloudlist
+  version: 1013.e198d15
+  origversion: 1013.e198d15-1
   status: ignored
-  summary: Detached debugging symbols for cloudlist
+  summary: A tool for listing Assets from multiple Cloud Providers.
   licenses:
     - MIT
 - repo: blackarch
   srcname: cloudlist
-  binname: cloudlist
-  visiblename: cloudlist
-  version: 919.a6caae6
-  origversion: 919.a6caae6-1
+  binname: cloudlist-debug
+  visiblename: cloudlist-debug
+  version: 1013.e198d15
+  origversion: 1013.e198d15-1
   status: ignored
-  summary: A tool for listing Assets from multiple Cloud Providers.
+  summary: Detached debugging symbols for cloudlist
   licenses:
     - MIT
 - repo: homebrew
@@ -94,6 +72,28 @@
   srcname: cloudlist
   visiblename: cloudlist
   version: 1.0.8
+  origversion: null
+  status: outdated
+  summary: Tool for listing assets from multiple cloud providers
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: cloudlist
+  visiblename: cloudlist
+  version: 1.1.0
+  origversion: null
+  status: outdated
+  summary: Tool for listing assets from multiple cloud providers
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: cloudlist
+  visiblename: cloudlist
+  version: 1.2.2
   origversion: null
   status: outdated
   summary: Tool for listing assets from multiple cloud providers
