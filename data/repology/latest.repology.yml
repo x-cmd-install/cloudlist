@@ -2,8 +2,8 @@
   srcname: cloudlist
   binname: cloudlist
   visiblename: cloudlist
-  version: 1.5.0
-  origversion: 1.5.0-1
+  version: 1.5.1
+  origversion: 1.5.1-1
   status: newest
   summary: Tool for listing Assets from multiple Cloud Providers
   maintainers:
@@ -14,8 +14,8 @@
   srcname: cloudlist-bin
   binname: cloudlist-bin
   visiblename: cloudlist-bin
-  version: 1.5.0
-  origversion: 1.5.0-1
+  version: 1.5.1
+  origversion: 1.5.1-1
   status: newest
   summary: Tool for listing Assets from multiple Cloud Providers
   maintainers:
@@ -36,16 +36,6 @@
     - MIT
 - repo: blackarch
   srcname: cloudlist
-  binname: cloudlist
-  visiblename: cloudlist
-  version: 1013.e198d15
-  origversion: 1013.e198d15-1
-  status: ignored
-  summary: A tool for listing Assets from multiple Cloud Providers.
-  licenses:
-    - MIT
-- repo: blackarch
-  srcname: cloudlist
   binname: cloudlist-debug
   visiblename: cloudlist-debug
   version: 1013.e198d15
@@ -54,10 +44,20 @@
   summary: Detached debugging symbols for cloudlist
   licenses:
     - MIT
+- repo: blackarch
+  srcname: cloudlist
+  binname: cloudlist
+  visiblename: cloudlist
+  version: 1013.e198d15
+  origversion: 1013.e198d15-1
+  status: ignored
+  summary: A tool for listing Assets from multiple Cloud Providers.
+  licenses:
+    - MIT
 - repo: homebrew
   srcname: cloudlist
   visiblename: cloudlist
-  version: 1.5.0
+  version: 1.5.1
   origversion: null
   status: newest
   summary: Tool for listing assets from multiple cloud providers
@@ -128,7 +128,7 @@
   visiblename: cloudlist
   version: 1.5.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Tool for listing assets from multiple cloud providers
   maintainers:
     - mail@fabian-affolter.ch
