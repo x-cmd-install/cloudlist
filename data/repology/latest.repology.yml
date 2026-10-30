@@ -126,9 +126,9 @@
 - repo: nix_unstable
   srcname: cloudlist
   visiblename: cloudlist
-  version: 1.5.0
+  version: 1.5.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Tool for listing assets from multiple cloud providers
   maintainers:
     - mail@fabian-affolter.ch
