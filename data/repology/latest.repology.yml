@@ -38,8 +38,8 @@
   srcname: cloudlist
   binname: cloudlist-debug
   visiblename: cloudlist-debug
-  version: 1013.e198d15
-  origversion: 1013.e198d15-1
+  version: 1017.b4c3216
+  origversion: 1017.b4c3216-1
   status: ignored
   summary: Detached debugging symbols for cloudlist
   licenses:
@@ -48,8 +48,8 @@
   srcname: cloudlist
   binname: cloudlist
   visiblename: cloudlist
-  version: 1013.e198d15
-  origversion: 1013.e198d15-1
+  version: 1017.b4c3216
+  origversion: 1017.b4c3216-1
   status: ignored
   summary: A tool for listing Assets from multiple Cloud Providers.
   licenses:
