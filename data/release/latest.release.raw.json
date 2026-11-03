@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 39856781,
       "digest": "sha256:5bd58f5c3df8f730ea57219627e4970378dde2ca067185278812a4c75b958578",
-      "download_count": 496,
+      "download_count": 535,
       "created_at": "2026-10-27T06:49:42Z",
       "updated_at": "2026-10-27T06:49:45Z",
       "browser_download_url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.1/cloudlist_1.5.1_linux_amd64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 41182487,
       "digest": "sha256:f1197b50e23655418e788df71f64e4fe710a0ac9b0f416e9572698c598c42351",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-10-27T06:49:42Z",
       "updated_at": "2026-10-27T06:49:45Z",
       "browser_download_url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.1/cloudlist_1.5.1_windows_amd64.zip"
