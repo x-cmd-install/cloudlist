@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,059 · **Forks**: 134 · **Open issues**: 103 · **Contributors**: 40
+- **Stars**: 1,057 · **Forks**: 134 · **Open issues**: 104 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 468 · **Open PRs**: 1 · **Closed issues**: 103 · **Open issues**: 0 · **Commits**: 1017
+- **Releases**: 19 · **Merged PRs**: 468 · **Open PRs**: 2 · **Closed issues**: 103 · **Open issues**: 1 · **Commits**: 1017
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 28 | 1 | 26 | 0 | 24 |
-| last60d | 2026-09-06 | 2 | 29 | 1 | 26 | 0 | 54 |
-| 90d | 2026-08-07 | 2 | 32 | 1 | 26 | 0 | 57 |
-| last180d | 2026-05-09 | 2 | 35 | 1 | 27 | 0 | 64 |
-| 360d | 2025-11-10 | 4 | 55 | 1 | 36 | 0 | 115 |
-| last720d | 2024-11-15 | 7 | 122 | 1 | 56 | 0 | 292 |
+| 30d | 2026-10-07 | 2 | 27 | 2 | 24 | 1 | 24 |
+| last60d | 2026-09-07 | 2 | 29 | 2 | 26 | 1 | 54 |
+| 90d | 2026-08-08 | 2 | 32 | 2 | 26 | 1 | 57 |
+| last180d | 2026-05-10 | 2 | 35 | 2 | 27 | 1 | 64 |
+| 360d | 2025-11-11 | 4 | 55 | 2 | 36 | 1 | 115 |
+| last720d | 2024-11-16 | 7 | 122 | 2 | 56 | 1 | 292 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for cloudlist lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:59:55Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:59:18Z._
