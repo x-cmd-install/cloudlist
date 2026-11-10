@@ -18,21 +18,11 @@ Total: **19,790** lines of code across **148** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 19,715 | 1,160 | 3,045 | 138 |
+| Go | 19,715 | 1,162 | 3,045 | 138 |
 | Yaml | 48 | 67 | 9 | 1 |
 | Makefile | 16 | 2 | 2 | 1 |
 | Dockerfile | 11 | 0 | 4 | 1 |
 | Markdown | 0 | 755 | 384 | 7 |
-
-## OpenSSF Scorecard
-
-Overall score: **6.3 / 10**
-
-Lowest-scoring checks:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -43,7 +33,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.5.1` (2026-10-27)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-09
 - **Assets in release**: 9
 
 ## Popularity
@@ -52,18 +42,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 470 · **Open PRs**: 3 · **Closed issues**: 104 · **Open issues**: 1 · **Commits**: 1021
+- **Releases**: 19 · **Merged PRs**: 472 · **Open PRs**: 0 · **Closed issues**: 105 · **Open issues**: 0 · **Commits**: 1025
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 2 | 14 | 3 | 9 | 1 | 9 |
-| last60d | 2026-09-10 | 2 | 31 | 3 | 27 | 1 | 55 |
-| 90d | 2026-08-11 | 2 | 33 | 3 | 27 | 1 | 58 |
-| last180d | 2026-05-13 | 2 | 37 | 3 | 28 | 1 | 66 |
-| 360d | 2025-11-14 | 4 | 56 | 3 | 37 | 1 | 117 |
-| last720d | 2024-11-19 | 7 | 121 | 3 | 57 | 1 | 290 |
+| 30d | 2026-10-11 | 2 | 16 | 0 | 10 | 0 | 11 |
+| last60d | 2026-09-11 | 2 | 33 | 0 | 28 | 0 | 57 |
+| 90d | 2026-08-12 | 2 | 34 | 0 | 28 | 0 | 60 |
+| last180d | 2026-05-14 | 2 | 39 | 0 | 29 | 0 | 68 |
+| 360d | 2025-11-15 | 4 | 58 | 0 | 38 | 0 | 119 |
+| last720d | 2024-11-20 | 7 | 123 | 0 | 58 | 0 | 294 |
 
 ## Release assets
 
@@ -97,4 +87,4 @@ Install metadata for cloudlist lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:50:31Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:42:39Z._

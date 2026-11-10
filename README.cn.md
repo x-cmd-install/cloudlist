@@ -18,21 +18,11 @@ x install cloudlist
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 19,715 | 1,160 | 3,045 | 138 |
+| Go | 19,715 | 1,162 | 3,045 | 138 |
 | Yaml | 48 | 67 | 9 | 1 |
 | Makefile | 16 | 2 | 2 | 1 |
 | Dockerfile | 11 | 0 | 4 | 1 |
 | Markdown | 0 | 755 | 384 | 7 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **6.3 / 10**
-
-评分最低的几项:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -43,7 +33,7 @@ x install cloudlist
 ## 发布
 
 - **最新版本**: `v1.5.1` (2026-10-27)
-- **最近提交**: 2026-11-08
+- **最近提交**: 2026-11-09
 - **Release 含资产**: 9 个
 
 ## 流行度
@@ -52,18 +42,18 @@ x install cloudlist
 
 ## 累计统计
 
-- **发布数**: 19 · **已合并 PR**: 470 · **开放 PR**: 3 · **已关闭 issue**: 104 · **开放 issue**: 1 · **提交数**: 1021
+- **发布数**: 19 · **已合并 PR**: 472 · **开放 PR**: 0 · **已关闭 issue**: 105 · **开放 issue**: 0 · **提交数**: 1025
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 2 | 14 | 3 | 9 | 1 | 9 |
-| last60d | 2026-09-10 | 2 | 31 | 3 | 27 | 1 | 55 |
-| 90d | 2026-08-11 | 2 | 33 | 3 | 27 | 1 | 58 |
-| last180d | 2026-05-13 | 2 | 37 | 3 | 28 | 1 | 66 |
-| 360d | 2025-11-14 | 4 | 56 | 3 | 37 | 1 | 117 |
-| last720d | 2024-11-19 | 7 | 121 | 3 | 57 | 1 | 290 |
+| 30d | 2026-10-11 | 2 | 16 | 0 | 10 | 0 | 11 |
+| last60d | 2026-09-11 | 2 | 33 | 0 | 28 | 0 | 57 |
+| 90d | 2026-08-12 | 2 | 34 | 0 | 28 | 0 | 60 |
+| last180d | 2026-05-14 | 2 | 39 | 0 | 29 | 0 | 68 |
+| 360d | 2025-11-15 | 4 | 58 | 0 | 38 | 0 | 119 |
+| last720d | 2024-11-20 | 7 | 123 | 0 | 58 | 0 | 294 |
 
 ## Release 资产
 
@@ -97,4 +87,4 @@ cloudlist 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T06:50:31Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:42:40Z._
