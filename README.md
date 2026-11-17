@@ -38,7 +38,7 @@ Total: **19,790** lines of code across **148** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,060 · **Forks**: 132 · **Open issues**: 105 · **Contributors**: 41
+- **Stars**: 1,061 · **Forks**: 132 · **Open issues**: 105 · **Contributors**: 41
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **19,790** lines of code across **148** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 8 | 1 | 4 | 0 | 7 |
-| last60d | 2026-09-17 | 2 | 32 | 1 | 28 | 0 | 57 |
-| 90d | 2026-08-18 | 2 | 34 | 1 | 28 | 0 | 60 |
-| last180d | 2026-05-20 | 2 | 39 | 1 | 29 | 0 | 68 |
-| 360d | 2025-11-21 | 4 | 58 | 1 | 38 | 0 | 116 |
-| last720d | 2024-11-26 | 7 | 121 | 1 | 58 | 0 | 290 |
+| 30d | 2026-10-18 | 1 | 8 | 1 | 4 | 0 | 7 |
+| last60d | 2026-09-18 | 2 | 32 | 1 | 28 | 0 | 57 |
+| 90d | 2026-08-19 | 2 | 34 | 1 | 28 | 0 | 60 |
+| last180d | 2026-05-21 | 2 | 39 | 1 | 29 | 0 | 68 |
+| 360d | 2025-11-22 | 4 | 58 | 1 | 38 | 0 | 116 |
+| last720d | 2024-11-27 | 7 | 121 | 1 | 58 | 0 | 290 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for cloudlist lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:06:38Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:46:26Z._
