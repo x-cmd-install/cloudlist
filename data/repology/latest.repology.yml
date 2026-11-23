@@ -36,22 +36,22 @@
     - MIT
 - repo: blackarch
   srcname: cloudlist
-  binname: cloudlist-debug
-  visiblename: cloudlist-debug
-  version: 1025.0bfbd84
-  origversion: 1025.0bfbd84-1
+  binname: cloudlist
+  visiblename: cloudlist
+  version: 1029.97ba7c3
+  origversion: 1029.97ba7c3-1
   status: ignored
-  summary: Detached debugging symbols for cloudlist
+  summary: A tool for listing Assets from multiple Cloud Providers.
   licenses:
     - MIT
 - repo: blackarch
   srcname: cloudlist
-  binname: cloudlist
-  visiblename: cloudlist
-  version: 1025.0bfbd84
-  origversion: 1025.0bfbd84-1
+  binname: cloudlist-debug
+  visiblename: cloudlist-debug
+  version: 1029.97ba7c3
+  origversion: 1029.97ba7c3-1
   status: ignored
-  summary: A tool for listing Assets from multiple Cloud Providers.
+  summary: Detached debugging symbols for cloudlist
   licenses:
     - MIT
 - repo: homebrew
