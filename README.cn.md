@@ -58,12 +58,12 @@ x install cloudlist
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 7 | 0 | 3 | 0 | 7 |
-| last60d | 2026-09-28 | 2 | 35 | 0 | 29 | 0 | 60 |
-| 90d | 2026-08-29 | 2 | 37 | 0 | 29 | 0 | 62 |
-| last180d | 2026-05-31 | 2 | 41 | 0 | 30 | 0 | 71 |
-| 360d | 2025-12-02 | 4 | 60 | 0 | 39 | 0 | 119 |
-| last720d | 2024-12-07 | 7 | 122 | 0 | 59 | 0 | 291 |
+| 30d | 2026-10-29 | 0 | 7 | 0 | 3 | 0 | 7 |
+| last60d | 2026-09-29 | 2 | 35 | 0 | 29 | 0 | 60 |
+| 90d | 2026-08-30 | 2 | 37 | 0 | 29 | 0 | 62 |
+| last180d | 2026-06-01 | 2 | 41 | 0 | 30 | 0 | 71 |
+| 360d | 2025-12-03 | 4 | 60 | 0 | 39 | 0 | 119 |
+| last720d | 2024-12-08 | 7 | 122 | 0 | 59 | 0 | 291 |
 
 ## Release 资产
 
@@ -79,6 +79,15 @@ x install cloudlist
 | [cloudlist_1.5.1_windows_386.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.1/cloudlist_1.5.1_windows_386.zip) | 36.7 MiB | `native/win/x64` |
 | [cloudlist_1.5.1_windows_amd64.zip](https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.1/cloudlist_1.5.1_windows_amd64.zip) | 39.3 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/cloudlist) 上共有 **13** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.5.1` | ✅ latest |
+| Nix unstable | `1.5.1` | ✅ latest |
+
 ## 改进这些数据
 
 cloudlist 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `cloudlist` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -88,4 +97,4 @@ cloudlist 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T09:01:53Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:43:00Z._
